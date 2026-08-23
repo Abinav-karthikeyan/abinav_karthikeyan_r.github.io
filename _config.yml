@@ -1,3 +1,26 @@
-theme: jekyll-theme-minimal
-title: Abhi's homepage
-description: Just my daily mirror
+theme: minima
+
+title: Abinav Karthikeyan R
+email: tjabhistrike99@gmail.com
+description: >-
+  Personal portfolio — CV, interests, and blog.
+url: "https://abinav-karthikeyan.github.io"
+baseurl: "/abinav_karthikeyan_r.github.io"
+
+author:
+  name: Abinav Karthikeyan R
+
+permalink: /blog/:year/:month/:day/:title/
+
+minima:
+  skin: auto
+
+header_pages:
+  - about.md
+  - interests.md
+  - blog.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
