@@ -2,13 +2,8 @@ theme: minima
 
 title: Abinav Karthikeyan R
 email: abhinavkarthikeyan1999@gmail.com
-description: >-
-  Personal portfolio — CV, interests, and blog.
 url: "https://abinav-karthikeyan.github.io"
 baseurl: "/abinav_karthikeyan_r.github.io"
-
-author:
-  name: Abinav Karthikeyan R
 
 permalink: /blog/:year/:month/:day/:title/
 

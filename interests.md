@@ -28,4 +28,3 @@ Medallion architectures, lineage, feature stores, experiment-to-production loops
 
 My academic background sits in systems modelling and multi-criteria decision analysis. I keep coming back to that lens when thinking about complex trade-offs — resource allocation, operational bottlenecks, ranking under uncertainty.
 
-## [Add more] <!-- expand as you like -->
